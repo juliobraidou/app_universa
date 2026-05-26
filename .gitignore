@@ -1,0 +1,25 @@
+# Ambiente e segredos
+.env
+.env.local
+.env.*.local
+
+# Node.js
+node_modules/
+npm-debug.log*
+*.log
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# IDEs e SO
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
