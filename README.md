@@ -200,7 +200,7 @@ Arquivo de exemplo: [`universa_api/.env.example`](universa_api/.env.example)
 
 ## Autor
 
-Substitua pelo seu nome ou @ do GitHub.
+@juliobraidou
 
 ## Licença
 
